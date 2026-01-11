@@ -18,5 +18,5 @@ Le système intègre plusieurs modules clés gérés par des procédures, foncti
 ## 🛠️ Technologies utilisées
 
 * **Langage :** PL/SQL (Oracle Database)
-* **Outils :** SQL Developer / SQL*Plus
+* **Outils :** SQL Developer
 * **Modélisation :** Schéma Relationnel (Modèle Entité-Association)
